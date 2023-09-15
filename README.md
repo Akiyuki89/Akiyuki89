@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson&weight=500&pause=1000&color=E46DB3&center=true&vCenter=true&width=1000&separator=%3C&lines=print(%22+Oi%2C+eu+sou+o+Akiyuki+!+%22)%3Cconsole.log(%22+Bem+vindo+ao+meu+perfil+profissional+%22);%3CSELECT+Analista_de_Dados+FROM+Brid;%3Cecho+%22+Obrigado+pela+visita+!!!+%22;)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akiyuki89&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akiyuki89&bg_color=0d1117&color=e46db3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
