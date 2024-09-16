@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E46DB3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson&weight=500&pause=1000&color=E46DB3&center=true&vCenter=true&width=1000&separator=%3C&lines=print(%22+Oi%2C+eu+sou+o+Akiyuki+!+%22)%3Cconsole.log(%22+Bem+vindo+ao+meu+perfil+!+%22);%3CSELECT+Engenheiro+Front-End+FROM+GDM;%3Cecho+%22+Obrigado+pela+visita+!!!+%22;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson&weight=500&pause=1000&color=E46DB3&center=true&vCenter=true&width=1000&separator=%3C&lines=print(%22+Oi%2C+eu+sou+o+Akiyuki+!+%22)%3Cconsole.log(%22+Bem+vindo+ao+meu+perfil+!+%22);%3CSELECT+Engenheiro+Back-End+e+DevOps+FROM+GDM;%3Cecho+%22+Obrigado+pela+visita+!!!+%22;)](https://git.io/typing-svg)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akiyuki89&bg_color=0d1117&color=e46db3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -24,14 +24,17 @@
   <img align="center" alt="Akiyuki-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Akiyuki-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Akiyuki-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Akiyuki-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Akiyuki-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
   <img align="center" alt="Akiyuki-Mongoose" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg">
+  <img align="center" alt="Akiyuki-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg">
   <img align="center" alt="Akiyuki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Akiyuki-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Akiyuki-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Akiyuki-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img align="center" alt="Akiyuki-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" alt="Akiyuki-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+  <img align="center" alt="Akiyuki-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
+  <img align="center" alt="Akiyuki-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
  </div>
 
 <div align="center">
