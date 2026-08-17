@@ -1,4 +1,3 @@
-````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 
 <div align="center">
@@ -414,4 +413,3 @@ Arquitetura é, em grande parte, o processo de encontrar o **melhor equilíbrio 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-```
