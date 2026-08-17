@@ -234,7 +234,7 @@ POCs utilizadas para testar tecnologias, padrões, estratégias arquitetônicas 
 <div align="center">
 
 <img width="100%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akiyuki89&theme=github_dark"/>
+     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 
 </div>
 
@@ -243,13 +243,13 @@ POCs utilizadas para testar tecnologias, padrões, estratégias arquitetônicas 
 <div align="center">
 
 <img width="32%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akiyuki89&theme=github_dark"/>
+     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
 
 <img width="32%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akiyuki89&theme=github_dark"/>
+     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
 
 <img width="32%"
-     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akiyuki89&theme=github_dark&utcOffset=-3"/>
+     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
 
 </div>
 
