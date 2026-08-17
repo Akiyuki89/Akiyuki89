@@ -1,3 +1,4 @@
+````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 
 <div align="center">
@@ -174,8 +175,6 @@ Neste GitHub compartilho projetos, estudos, provas de conceito e definições re
 
 <br>
 
-Alguns dos principais temas presentes nos meus projetos:
-
 ### 🏗️ Software Architecture
 
 Definições arquitetônicas, padrões de projeto, decisões técnicas, DDD, sistemas distribuídos e experimentações envolvendo diferentes estilos arquitetônicos.
@@ -191,78 +190,6 @@ Infraestrutura cloud, containers, Terraform, CI/CD, observabilidade, escalabilid
 ### 🧪 Proofs of Concept
 
 POCs utilizadas para testar tecnologias, padrões, estratégias arquitetônicas e hipóteses antes de aplicá-las em sistemas maiores.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akiyuki89&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" height="195px"
-     src="https://github-stats-extended.vercel.app/api?username=Akiyuki89&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=22D3EE"/>
-
-<img width="41%" height="195px"
-     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akiyuki89&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img width="70%"
-     src="https://streak-stats.demolab.com?user=Akiyuki89&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
-
-</div>
-
----
-
-## 📈 Profile Summary
-
-<div align="center">
-
-<img width="100%"
-     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%"
-     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
-
-<img width="32%"
-     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
-
-<img width="32%"
-     src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
-
-</div>
-
----
-
-## 📉 Contribution Activity
-
-<div align="center">
-
-<img width="100%"
-     src="https://github-readme-activity-graph.vercel.app/graph?username=Akiyuki89&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=4F46E5&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -432,36 +359,6 @@ POCs utilizadas para testar tecnologias, padrões, estratégias arquitetônicas 
 
 ---
 
-## 🐍 Contributions
-
-<div align="center">
-
-<!--
-Para habilitar esta seção é necessário configurar o workflow Platane/snk
-para gerar a branch "output".
--->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
 ## 💡 Filosofia de Engenharia
 
 ```text
@@ -517,3 +414,4 @@ Arquitetura é, em grande parte, o processo de encontrar o **melhor equilíbrio 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+```
