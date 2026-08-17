@@ -1,43 +1,519 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E46DB3&height=120&section=header"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson&weight=500&pause=1000&color=E46DB3&center=true&vCenter=true&width=1000&separator=%3C&lines=print(%22+Oi%2C+eu+sou+o+Akiyuki+!+%22)%3Cconsole.log(%22+Bem+vindo+ao+meu+perfil+!+%22);%3CSELECT+Engenheiro+Back-End+e+DevOps+FROM+GDM;%3Cecho+%22+Obrigado+pela+visita+!!!+%22;)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akiyuki89&bg_color=0d1117&color=e46db3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-<div align="center"> 
-  <a href="https://github.com/Akiyuki89">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Akiyuki89&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiyuki89&layout=compact&langs_count=7&theme=omni"/>
-</div>
-  
-<div align = "center"><br> 
-  <img align="center" alt="Akiyuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Akiyuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Akiyuki-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Akiyuki-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Akiyuki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Akiyuki-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Akiyuki-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Akiyuki-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Akiyuki-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Akiyuki-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Akiyuki-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Akiyuki-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Akiyuki-Mongoose" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg">
-  <img align="center" alt="Akiyuki-Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg">
-  <img align="center" alt="Akiyuki-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Akiyuki-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Akiyuki-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Akiyuki-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <img align="center" alt="Akiyuki-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" alt="Akiyuki-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />
-  <img align="center" alt="Akiyuki-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
- </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>   
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Akiyuki89}/count.svg" /></p> 
+
+# Akiyuki
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Crimson+Pro&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+o+Akiyuki+%F0%9F%91%8B;Software+Architecture+%7C+Back-End+%7C+Cloud;Construindo+sistemas+escal%C3%A1veis+e+resilientes;Transformando+complexidade+em+arquitetura.)](https://git.io/typing-svg)
+
 <br>
+
+<a href="https://github.com/Akiyuki89">
+  <img src="https://img.shields.io/github/followers/Akiyuki89?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Akiyuki89&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
+
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E46DB3&height=120&section=footer"/>
+---
+
+## 👨‍💻 Sobre mim
+
+Sou engenheiro de software focado em **Arquitetura de Software, Back-End, Sistemas Distribuídos, Cloud e DevOps**.
+
+Meu interesse está na construção de sistemas que não apenas funcionem, mas consigam **crescer, falhar de maneira controlada, ser observados e permanecer sustentáveis ao longo do tempo**.
+
+Ao tomar decisões arquitetônicas, procuro equilibrar cinco variáveis fundamentais:
+
+<div align="center">
+
+`Performance` • `Escalabilidade` • `Custo` • `Complexidade` • `Time-to-Market`
+
+</div>
+
+<br>
+
+Meu objetivo é transformar requisitos de negócio e problemas complexos em soluções técnicas **simples, resilientes, observáveis e escaláveis**.
+
+---
+
+## 🧠 Engineering Focus
+
+<div align="center">
+
+![Software Architecture](https://img.shields.io/badge/Software-Architecture-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Backend](https://img.shields.io/badge/Backend-Engineering-7C3AED?style=for-the-badge&labelColor=0D1117)
+![Cloud](https://img.shields.io/badge/Cloud-Architecture-7C3AED?style=for-the-badge&labelColor=0D1117)
+
+<br>
+
+![DDD](https://img.shields.io/badge/Domain--Driven-Design-4F46E5?style=flat-square)
+![EDA](https://img.shields.io/badge/Event--Driven-Architecture-4F46E5?style=flat-square)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-4F46E5?style=flat-square)
+![Hexagonal](https://img.shields.io/badge/Architecture-Hexagonal-4F46E5?style=flat-square)
+![CQRS](https://img.shields.io/badge/Pattern-CQRS-4F46E5?style=flat-square)
+![Outbox](https://img.shields.io/badge/Pattern-Outbox-4F46E5?style=flat-square)
+
+<br>
+
+![Observability](https://img.shields.io/badge/Engineering-Observability-22D3EE?style=flat-square)
+![Resilience](https://img.shields.io/badge/Engineering-Resilience-22D3EE?style=flat-square)
+![Performance](https://img.shields.io/badge/Engineering-Performance-22D3EE?style=flat-square)
+![FinOps](https://img.shields.io/badge/Cloud-FinOps-22D3EE?style=flat-square)
+![IaC](https://img.shields.io/badge/Infrastructure-IaC-22D3EE?style=flat-square)
+
+</div>
+
+---
+
+## 🏗️ Architecture Toolbox
+
+<div align="center">
+
+### Architecture
+
+`DDD`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Hexagonal Architecture`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Clean Architecture`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Microservices`
+
+<br>
+
+`Event-Driven Architecture`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`CQRS`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Saga`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Outbox Pattern`
+
+<br><br>
+
+### Distributed Systems
+
+`RabbitMQ`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Redis`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`gRPC`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`WebSockets`
+
+<br>
+
+`Circuit Breaker`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Retry / Backoff`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Bulkhead`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`DLQ`
+
+<br><br>
+
+### Platform Engineering
+
+`Docker`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Kubernetes`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Terraform`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`CI/CD`
+
+<br>
+
+`AWS`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Observability`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`OpenTelemetry`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`FinOps`
+
+</div>
+
+---
+
+## 🚀 O que você encontrará por aqui
+
+Neste GitHub compartilho projetos, estudos, provas de conceito e definições relacionadas principalmente a:
+
+- 🏗️ **Arquitetura de Software**
+- ⚙️ **Back-End Engineering**
+- 🌐 **Sistemas Distribuídos**
+- ☁️ **Cloud Architecture**
+- 📡 **Event-Driven Architecture**
+- 📦 **Microservices**
+- 🔭 **Observabilidade**
+- 🚀 **Performance Engineering**
+- 🛡️ **Resiliência**
+- 🐳 **Containers e Orquestração**
+- 🏭 **DevOps e Platform Engineering**
+- 💰 **FinOps**
+- 📚 **Estudos e experimentações**
+
+> Conhecimento que não é compartilhado acaba se tornando mito.
+
+---
+
+## 📌 Projetos & Repositórios
+
+<div align="center">
+
+<a href="https://github.com/Akiyuki89?tab=repositories">
+  <img src="https://img.shields.io/badge/Explorar-Meus_Repositórios-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br>
+
+Alguns dos principais temas presentes nos meus projetos:
+
+### 🏗️ Software Architecture
+
+Definições arquitetônicas, padrões de projeto, decisões técnicas, DDD, sistemas distribuídos e experimentações envolvendo diferentes estilos arquitetônicos.
+
+### ⚙️ Back-End Engineering
+
+APIs, microsserviços, processamento assíncrono, mensageria, integração entre sistemas, performance e aplicações distribuídas.
+
+### ☁️ Cloud & Infrastructure
+
+Infraestrutura cloud, containers, Terraform, CI/CD, observabilidade, escalabilidade, disponibilidade e otimização de custos.
+
+### 🧪 Proofs of Concept
+
+POCs utilizadas para testar tecnologias, padrões, estratégias arquitetônicas e hipóteses antes de aplicá-las em sistemas maiores.
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Akiyuki89&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" height="195px"
+     src="https://github-stats-extended.vercel.app/api?username=Akiyuki89&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=22D3EE"/>
+
+<img width="41%" height="195px"
+     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Akiyuki89&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="70%"
+     src="https://streak-stats.demolab.com?user=Akiyuki89&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
+
+</div>
+
+---
+
+## 📈 Profile Summary
+
+<div align="center">
+
+<img width="100%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akiyuki89&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akiyuki89&theme=github_dark"/>
+
+<img width="32%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akiyuki89&theme=github_dark"/>
+
+<img width="32%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akiyuki89&theme=github_dark&utcOffset=-3"/>
+
+</div>
+
+---
+
+## 📉 Contribution Activity
+
+<div align="center">
+
+<img width="100%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=Akiyuki89&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=22D3EE&area=true&area_color=4F46E5&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## ⚙️ Back-End & Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,cpp,php&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`TypeScript`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Node.js`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`NestJS`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Python`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`C++`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`PHP`
+
+</div>
+
+---
+
+## 🌐 Front-End
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,sass,tailwind&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`React`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Next.js`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`JavaScript`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`HTML`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`CSS`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`SASS`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Tailwind`
+
+</div>
+
+---
+
+## 🗄️ Databases & Messaging
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`PostgreSQL`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`MongoDB`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`MySQL`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Redis`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`RabbitMQ`
+
+</div>
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`AWS`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Docker`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Kubernetes`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Terraform`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Linux`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`GitHub Actions`
+
+</div>
+
+---
+
+## 🔧 Ferramentas & Ecossistema
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,grafana&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Git`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`GitHub`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`VS Code`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Postman`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Nginx`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Grafana`
+
+</div>
+
+---
+
+## 🧩 Tecnologias que fazem parte do meu ecossistema
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=7C3AED)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=7C3AED)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=7C3AED)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=7C3AED)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=7C3AED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=7C3AED)
+
+<br>
+
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=22D3EE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22D3EE)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22D3EE)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=22D3EE)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=for-the-badge&logo=rabbitmq&logoColor=22D3EE)
+![Grafana](https://img.shields.io/badge/Grafana-0D1117?style=for-the-badge&logo=grafana&logoColor=22D3EE)
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<!--
+Para habilitar esta seção é necessário configurar o workflow Platane/snk
+para gerar a branch "output".
+-->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Akiyuki89/Akiyuki89/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+## 💡 Filosofia de Engenharia
+
+```text
+Performance
+     │
+     ├── Escalabilidade
+     │
+     ├── Complexidade
+     │
+     ├── Custo
+     │
+     └── Time-to-Market
+            │
+            ▼
+      Decisão Técnica
+````
+
+Uma boa decisão arquitetônica raramente é aquela que maximiza apenas uma variável.
+
+Arquitetura é, em grande parte, o processo de encontrar o **melhor equilíbrio entre restrições técnicas, necessidades do negócio e capacidade real do time**.
+
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-7C3AED?style=for-the-badge\&labelColor=0D1117)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-7C3AED?style=for-the-badge\&labelColor=0D1117)
+![Cloud](https://img.shields.io/badge/Cloud_Architecture-7C3AED?style=for-the-badge\&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C++-7C3AED?style=for-the-badge\&logo=cplusplus\&logoColor=white\&labelColor=0D1117)
+
+</div>
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+<a href="https://github.com/Akiyuki89">
+  <img src="https://img.shields.io/badge/GitHub-Akiyuki89-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### "Build systems. Understand trade-offs. Share knowledge."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
